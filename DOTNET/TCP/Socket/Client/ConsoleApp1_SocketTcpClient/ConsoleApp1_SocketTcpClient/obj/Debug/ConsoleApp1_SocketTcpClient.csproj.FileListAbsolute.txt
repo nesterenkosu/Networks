@@ -1,0 +1,7 @@
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Client\ConsoleApp1_SocketTcpClient\ConsoleApp1_SocketTcpClient\bin\Debug\ConsoleApp1_SocketTcpClient.exe.config
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Client\ConsoleApp1_SocketTcpClient\ConsoleApp1_SocketTcpClient\bin\Debug\ConsoleApp1_SocketTcpClient.exe
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Client\ConsoleApp1_SocketTcpClient\ConsoleApp1_SocketTcpClient\bin\Debug\ConsoleApp1_SocketTcpClient.pdb
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Client\ConsoleApp1_SocketTcpClient\ConsoleApp1_SocketTcpClient\obj\Debug\ConsoleApp1_SocketTcpClient.csproj.AssemblyReference.cache
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Client\ConsoleApp1_SocketTcpClient\ConsoleApp1_SocketTcpClient\obj\Debug\ConsoleApp1_SocketTcpClient.csproj.CoreCompileInputs.cache
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Client\ConsoleApp1_SocketTcpClient\ConsoleApp1_SocketTcpClient\obj\Debug\ConsoleApp1_SocketTcpClient.exe
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Client\ConsoleApp1_SocketTcpClient\ConsoleApp1_SocketTcpClient\obj\Debug\ConsoleApp1_SocketTcpClient.pdb

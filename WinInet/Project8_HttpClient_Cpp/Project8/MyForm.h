@@ -133,24 +133,32 @@ namespace Project8 {
 #pragma endregion
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
 		HINTERNET hInet, hSession, hRequest;
+		//Инициализация
 		hInet = InternetOpen(L"MyAgent",INTERNET_OPEN_TYPE_DIRECT,NULL,NULL,0);
-		hSession=InternetConnect(hInet,L"mysite.ru",80,L"Sartasov", L"123", INTERNET_SERVICE_HTTP, 0, 0);
-		hRequest = HttpOpenRequest(hSession, L"GET", L"/sart.php", L"HTTP/1.1", L"", NULL,
+		//Создание подключения
+		hSession=InternetConnect(hInet,L"mylibrary.loc",80,L"Sartasov", L"123", INTERNET_SERVICE_HTTP, 0, 0);
+		//Формирование HTTP-запроса
+		hRequest = HttpOpenRequest(hSession, L"GET", L"/webapi.php", L"HTTP/1.1", L"", NULL,
 			INTERNET_FLAG_EXISTING_CONNECT | INTERNET_FLAG_NO_AUTO_REDIRECT |
 			INTERNET_FLAG_KEEP_CONNECTION, 0);
+		//Отправка HTTP-запроса
 		HttpSendRequest(hRequest, NULL, 0, NULL, 0);
 
 		DWORD Len = 10;
 		wchar_t		Buf[1001] = { 0 };
+		//Получение HTTP-ответа
+		//1) Определение статуса ответа. Считывание заголовка Content-length
 		HttpQueryInfo(hRequest, HTTP_QUERY_CONTENT_LENGTH, Buf, &Len, NULL);
 		printf("[%d]\n",_wtoi(Buf));
 
 		Len = _wtoi(Buf);
 
 		char http_body[1001] = { 0 };
+		//2) Принятие данных из HTTP-ответа
 		InternetReadFile(hRequest, http_body, Len, &Len);
 		printf("[%s]\n", http_body);
 
+		//Парсинг JSON-данных, принятых с сервера, в специальный объект
 		Document d;
 		d.Parse(http_body);
 
@@ -163,6 +171,45 @@ namespace Project8 {
 			Encoding::UTF8
 		);
 
+		String^ author;
+		String^ title;
+		String^ year;
+		for (int i = 0;i < 3;i++) {
+			printf(
+				"%s\t%s\t%s\n",
+				d[i].FindMember("author")->value.GetString(),
+				d[i].FindMember("title")->value.GetString(),
+				d[i].FindMember("year")->value.GetString()
+			);
+
+			author = gcnew String(
+				d[i].FindMember("author")->value.GetString(),
+				0,
+				d[i].FindMember("author")->value.GetStringLength(),
+				Encoding::UTF8
+			);
+
+			title = gcnew String(
+				d[i].FindMember("title")->value.GetString(),
+				0,
+				d[i].FindMember("title")->value.GetStringLength(),
+				Encoding::UTF8
+			);
+
+			year = gcnew String(
+				d[i].FindMember("year")->value.GetString(),
+				0,
+				d[i].FindMember("year")->value.GetStringLength(),
+				Encoding::UTF8
+			);
+
+			this->dataGridView1->Rows->Add(
+				author,
+				title,
+				year
+			);
+			
+		}
 		//printf("[%s]\n", s);
 		
 		this->button1->Text = S;

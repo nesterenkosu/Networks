@@ -1,0 +1,10 @@
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Server\WindowsFormsApp_Server\WindowsFormsApp_Server\bin\Debug\WindowsFormsApp_Server.exe.config
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Server\WindowsFormsApp_Server\WindowsFormsApp_Server\bin\Debug\WindowsFormsApp_Server.exe
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Server\WindowsFormsApp_Server\WindowsFormsApp_Server\bin\Debug\WindowsFormsApp_Server.pdb
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Server\WindowsFormsApp_Server\WindowsFormsApp_Server\obj\Debug\WindowsFormsApp_Server.csproj.AssemblyReference.cache
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Server\WindowsFormsApp_Server\WindowsFormsApp_Server\obj\Debug\WindowsFormsApp_Server.Form1.resources
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Server\WindowsFormsApp_Server\WindowsFormsApp_Server\obj\Debug\WindowsFormsApp_Server.Properties.Resources.resources
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Server\WindowsFormsApp_Server\WindowsFormsApp_Server\obj\Debug\WindowsFormsApp_Server.csproj.GenerateResource.cache
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Server\WindowsFormsApp_Server\WindowsFormsApp_Server\obj\Debug\WindowsFormsApp_Server.csproj.CoreCompileInputs.cache
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Server\WindowsFormsApp_Server\WindowsFormsApp_Server\obj\Debug\WindowsFormsApp_Server.exe
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Server\WindowsFormsApp_Server\WindowsFormsApp_Server\obj\Debug\WindowsFormsApp_Server.pdb

@@ -1,0 +1,10 @@
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Client\WindowsFormsApp_Client\WindowsFormsApp_Client\bin\Debug\WindowsFormsApp_Client.exe.config
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Client\WindowsFormsApp_Client\WindowsFormsApp_Client\bin\Debug\WindowsFormsApp_Client.exe
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Client\WindowsFormsApp_Client\WindowsFormsApp_Client\bin\Debug\WindowsFormsApp_Client.pdb
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Client\WindowsFormsApp_Client\WindowsFormsApp_Client\obj\Debug\WindowsFormsApp_Client.csproj.AssemblyReference.cache
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Client\WindowsFormsApp_Client\WindowsFormsApp_Client\obj\Debug\WindowsFormsApp_Client.Form1.resources
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Client\WindowsFormsApp_Client\WindowsFormsApp_Client\obj\Debug\WindowsFormsApp_Client.Properties.Resources.resources
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Client\WindowsFormsApp_Client\WindowsFormsApp_Client\obj\Debug\WindowsFormsApp_Client.csproj.GenerateResource.cache
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Client\WindowsFormsApp_Client\WindowsFormsApp_Client\obj\Debug\WindowsFormsApp_Client.csproj.CoreCompileInputs.cache
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Client\WindowsFormsApp_Client\WindowsFormsApp_Client\obj\Debug\WindowsFormsApp_Client.exe
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\TcpServerClient\WinForms\Client\WindowsFormsApp_Client\WindowsFormsApp_Client\obj\Debug\WindowsFormsApp_Client.pdb

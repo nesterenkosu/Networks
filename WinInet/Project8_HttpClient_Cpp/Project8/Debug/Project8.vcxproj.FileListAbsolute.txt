@@ -1,3 +1,6 @@
 C:\Users\nesterenko_sy\source\repos\Project8\Project8\Debug\Project8.vcxproj.AssemblyReference.cache
 C:\Users\nesterenko_sy\source\repos\Project8\Project8\Debug\Project8.MyForm.resources
 C:\Users\nesterenko_sy\source\repos\Project8\Project8\Debug\Project8.vcxproj.GenerateResource.cache
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\WinInet\Project8_HttpClient_Cpp\Project8\Debug\Project8.vcxproj.AssemblyReference.cache
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\WinInet\Project8_HttpClient_Cpp\Project8\Debug\Project8.MyForm.resources
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\WinInet\Project8_HttpClient_Cpp\Project8\Debug\Project8.vcxproj.GenerateResource.cache
