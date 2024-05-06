@@ -1,0 +1,7 @@
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\UDP\Socket\Client\ConsoleApp_SocketUdpClient\ConsoleApp_SocketUdpClient\bin\Debug\ConsoleApp_SocketUdpClient.exe.config
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\UDP\Socket\Client\ConsoleApp_SocketUdpClient\ConsoleApp_SocketUdpClient\bin\Debug\ConsoleApp_SocketUdpClient.exe
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\UDP\Socket\Client\ConsoleApp_SocketUdpClient\ConsoleApp_SocketUdpClient\bin\Debug\ConsoleApp_SocketUdpClient.pdb
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\UDP\Socket\Client\ConsoleApp_SocketUdpClient\ConsoleApp_SocketUdpClient\obj\Debug\ConsoleApp_SocketUdpClient.csproj.AssemblyReference.cache
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\UDP\Socket\Client\ConsoleApp_SocketUdpClient\ConsoleApp_SocketUdpClient\obj\Debug\ConsoleApp_SocketUdpClient.csproj.CoreCompileInputs.cache
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\UDP\Socket\Client\ConsoleApp_SocketUdpClient\ConsoleApp_SocketUdpClient\obj\Debug\ConsoleApp_SocketUdpClient.exe
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\UDP\Socket\Client\ConsoleApp_SocketUdpClient\ConsoleApp_SocketUdpClient\obj\Debug\ConsoleApp_SocketUdpClient.pdb
