@@ -24,6 +24,7 @@ namespace ConsoleApp_SocketUdpServer
             EndPoint remoteIp = new IPEndPoint(IPAddress.Any, 0);
             // получаем данные в массив data
             var message_length = socket.ReceiveFrom(data, ref remoteIp);
+            //преобразование данных из двоичного формата в строковый
             var message = Encoding.UTF8.GetString(data, 0, message_length);
 
             Console.WriteLine($"Адрес подключенного клиента: {remoteIp}");

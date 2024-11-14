@@ -1,0 +1,14 @@
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\bin\Debug\ConsoleApp_SocketTcpServer.exe.config
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\bin\Debug\ConsoleApp_SocketTcpServer.exe
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\bin\Debug\ConsoleApp_SocketTcpServer.pdb
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\obj\Debug\ConsoleApp_SocketTcpServer.csproj.AssemblyReference.cache
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\obj\Debug\ConsoleApp_SocketTcpServer.csproj.CoreCompileInputs.cache
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\obj\Debug\ConsoleApp_SocketTcpServer.exe
+D:\BOX\Trainer\2023_2024\Networks\TCPUDPNET\TCP\Socket\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\obj\Debug\ConsoleApp_SocketTcpServer.pdb
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\TCP\Socket\ComplexData\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\obj\Debug\ConsoleApp_SocketTcpServer.csproj.AssemblyReference.cache
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\TCP\Socket\ComplexData\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\obj\Debug\ConsoleApp_SocketTcpServer.csproj.CoreCompileInputs.cache
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\TCP\Socket\ComplexData\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\obj\Debug\ConsoleApp_SocketTcpServer.exe
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\TCP\Socket\ComplexData\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\obj\Debug\ConsoleApp_SocketTcpServer.pdb
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\TCP\Socket\ComplexData\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\bin\Debug\ConsoleApp_SocketTcpServer.exe.config
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\TCP\Socket\ComplexData\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\bin\Debug\ConsoleApp_SocketTcpServer.exe
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\TCP\Socket\ComplexData\Server\ConsoleApp_SocketTcpServer\ConsoleApp_SocketTcpServer\bin\Debug\ConsoleApp_SocketTcpServer.pdb

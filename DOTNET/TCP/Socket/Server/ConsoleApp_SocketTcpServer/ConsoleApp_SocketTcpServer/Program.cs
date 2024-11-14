@@ -12,7 +12,7 @@ namespace ConsoleApp_SocketTcpServer
     {
         static void Main(string[] args)
         {
-            IPEndPoint ipPoint = new IPEndPoint(new IPAddress(new byte[] {5,79,226,239 }), 8888);
+            IPEndPoint ipPoint = new IPEndPoint(new IPAddress(new byte[] {192,168,56,1 }), 8888);
             Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             socket.Bind(ipPoint);   // связываем с локальной точкой ipPoint
 

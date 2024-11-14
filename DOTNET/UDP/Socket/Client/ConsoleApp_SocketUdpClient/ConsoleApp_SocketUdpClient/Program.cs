@@ -21,11 +21,16 @@ namespace ConsoleApp_SocketUdpClient
             Console.Write("Введите сообщение для отправки: ");
             message = Console.ReadLine();
 
+            //Создание сокета
             var socket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
 
+            //Создание конечной точки - объекта, объединяющего ip-адрес и порт
             EndPoint remotePoint = new IPEndPoint(IPAddress.Parse(ip_as_string), 8888);
 
+            //Преобразование текстовых данных в двоичные
             var data = Encoding.UTF8.GetBytes(message);
+
+            //Отправка данных в сеть
             socket.SendTo(data, remotePoint);
 
             Console.WriteLine("Сообщение отправлено");

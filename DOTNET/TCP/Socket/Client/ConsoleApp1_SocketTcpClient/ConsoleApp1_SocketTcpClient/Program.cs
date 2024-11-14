@@ -20,6 +20,7 @@ namespace ConsoleApp1_SocketTcpClient
 
             var socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
+            //Запрос на установку соединения с сервером
             socket.Connect(IPAddress.Parse(ip_as_string),8888);
 
             Console.WriteLine("Подключение установлено");
@@ -36,6 +37,7 @@ namespace ConsoleApp1_SocketTcpClient
 
             Console.WriteLine("Сообщение отправлено");
 
+            //Запрос на разрыв соединения с сервером
             socket.Shutdown(SocketShutdown.Send);
             socket.Disconnect(true);
 

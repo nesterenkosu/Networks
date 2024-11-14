@@ -51,7 +51,10 @@ namespace WindowsFormsApp_Client
         private void button1_Click(object sender, EventArgs e)
         {
             client = new UdpClient(8887);
-            server_addr = new IPEndPoint(IPAddress.Parse(tb_address.Text), 8888);            
+            server_addr = new IPEndPoint(IPAddress.Parse(tb_address.Text), 8888);
+            //server_addr = new IPEndPoint(IPAddress.Broadcast, 8888); 
+
+            //lb_client.Items.Add(server_addr.ToString());
             lb_client.Items.Add("Подключение к серверу установлено");
 
             WaitForMessagesAsync();

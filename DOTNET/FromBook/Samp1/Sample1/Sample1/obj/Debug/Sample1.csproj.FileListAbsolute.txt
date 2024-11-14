@@ -1,0 +1,7 @@
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\FromBook\Samp1\Sample1\Sample1\bin\Debug\Sample1.exe.config
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\FromBook\Samp1\Sample1\Sample1\bin\Debug\Sample1.exe
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\FromBook\Samp1\Sample1\Sample1\bin\Debug\Sample1.pdb
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\FromBook\Samp1\Sample1\Sample1\obj\Debug\Sample1.csproj.AssemblyReference.cache
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\FromBook\Samp1\Sample1\Sample1\obj\Debug\Sample1.csproj.CoreCompileInputs.cache
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\FromBook\Samp1\Sample1\Sample1\obj\Debug\Sample1.exe
+D:\G_GITHUBMIRROR\nesterenkosu\Networks\DOTNET\FromBook\Samp1\Sample1\Sample1\obj\Debug\Sample1.pdb
